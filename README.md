@@ -4,7 +4,8 @@
 
 — HTML-верстальщик и младший фронтенд-разработчик. Пишу на JS/HTML/CSS, работаю с Git, препроцессорами, анимациями и современными инструментами сборки проектов
 
-— Портфолио: skugarova.com
+— [Портфолио](https://skugarova.com)
+
 
 ## Мой стек
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
